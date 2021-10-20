@@ -11,6 +11,6 @@
 
 ![Kmeans](https://github.com/salomaestro/k-means-image-test/blob/29dff4a3cbe6c6435871317eedf0c2c6b9d5158c/resultstest3/cluster10.png)
 
-### From gifconverter package
+### From giffer package
 
 ![gif_test](https://github.com/salomaestro/gifconverter/blob/77e088d7a0867f4662e0066a15607d8fd284cf5a/gifconverter/src/tests/giftest.gif)
