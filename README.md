@@ -3,13 +3,18 @@
 - 💞️ I’m looking to collaborate on python projects like pattern recognition algorithms, games 🎮 and simulations 🎲. 
 - 📫 How to reach me: csa047@uit.no, [LinkedIn](https://www.linkedin.com/in/christian-salomonsen-932923207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnIhrVYiaS2ecyY1KrER6oQ%3D%3D)
 
+### From K-means clustering algorithm in both 3- (k=7, 10 clusters, 500 samples per cluster) and 2-dimensions as gif animations using my [giffer](https://github.com/salomaestro/giffer) package.
+
+##### *3 dim*
+
+![Kmeans_3d](https://github.com/Pattern2021/clustering_test/blob/39698bd7ba9a74ad2f321cdb0216860d72d94522/gifs/kmeans_test_3d_best.gif)
+
+##### *2 dim*
+![Kmeans_2d](https://github.com/Pattern2021/clustering_test/blob/39698bd7ba9a74ad2f321cdb0216860d72d94522/gifs/10clusters_better.gif)
+
 ### Random result from my homemade neural network.
 
 ![NN](https://github.com/Pattern2021/Exercises/blob/9ebc65f7747b3dcf085bc2dd4fc5ada9049b3e08/week38/img/2_class_1_hidden_6_neurons.png)
-
-### From a simple 2 dim K-means clustering algorithm using my [giffer](https://github.com/salomaestro/giffer) package.
-
-![Kmeans_simple](https://github.com/Pattern2021/clustering_test/blob/main/gifs/20clusters.gif)
 
 ### From a K-means facial expression clustering algorithm.
 
