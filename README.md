@@ -1,4 +1,8 @@
-[![SelfhostedPro github stats](https://github-readme-stats.vercel.app/api?username=salomaestro&show_icons=true&theme=algolia)](https://github.com/salomaestro)
+![Salo](https://github.com/salomaestro/salomaestro/blob/cc4d8fe4f9c750edbda67306dfdc3236d1db0525/text.gif)
+
+---
+
+[![Christian Salomonsen´s github stats](https://github-readme-stats.vercel.app/api?username=salomaestro&show_icons=true&theme=algolia)](https://github.com/salomaestro)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salomaestro&theme=algolia)](https://github.com/salomaestro)
 
 <div id="gif" align="center">
