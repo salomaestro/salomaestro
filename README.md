@@ -1,6 +1,9 @@
 [![SelfhostedPro github stats](https://github-readme-stats.vercel.app/api?username=salomaestro&show_icons=true&theme=algolia)](https://github.com/salomaestro)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salomaestro&theme=algolia)](https://github.com/salomaestro)
 
+<div id="gif" align="center">
+  <img src="https://github.com/salomaestro/gifconverter/blob/77e088d7a0867f4662e0066a15607d8fd284cf5a/gifconverter/src/tests/giftest.gif" width="350">
+</div>
 
 - 👋 Hi, I’m @salomaestro - Christian Salomonsen
 - 👀 I’m interested in machine learning and self-hosting services 💻🧠
