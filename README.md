@@ -1,6 +1,6 @@
 ## About
 
-As of fall 2024 I am beginning a Ph.D course at UiT - The Arctic University of Norway. I completed my master´s degree in applied physics and mathematics June 2024, studying how deep convolutional neural networks can be used in extracting accurate building footprints from high resolution airborne sensors through modeling epistemic uncertainty.
+As of fall 2024 I am beginning a Ph.D course at UiT - The Arctic University of Norway. I completed my masters degree in applied physics and mathematics June 2024, studying how deep convolutional neural networks can be used in extracting accurate building footprints from high resolution airborne sensors through modeling epistemic uncertainty.
 
 I enjoy working on small projects and tools in my spare time that I can benefit from during my studies. Additionally, self-hosting on my raspberry-pi and old computers have been fun side-projects.
 
